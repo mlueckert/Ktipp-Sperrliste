@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phonebooks>
+<phonebook owner="1" name="Callcenter">
+<contact>
+<category>0</category>
+<person><realName>Template</realName></person><telephony
+nid="1"><number>911</number></telephony><services /><setup /><features
+doorphone="0" />
+</contact>
+<contact>
+<category>0</category>
+<person><realName>Template2</realName></person><telephony
+nid="1"><number>912</number></telephony><services /><setup /><features
+doorphone="0" />
+</contact>
+</phonebook>
+</phonebooks>
